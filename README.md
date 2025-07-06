@@ -4,9 +4,9 @@ This project is a Python-based open HTTP proxy that injects JavaScript into HTML
 
 ## Features
 
--Open HTTP proxy on port 8080
+- Open HTTP proxy on port 8080
 
--Injects JavaScript payload into HTML responses
+- Injects JavaScript payload into HTML responses
 
 Payload creates multiple image requests to a specified victim IP
 
