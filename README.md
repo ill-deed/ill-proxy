@@ -8,11 +8,11 @@ This project is a Python-based open HTTP proxy that injects JavaScript into HTML
 
 - Injects JavaScript payload into HTML responses
 
-Payload creates multiple image requests to a specified victim IP
+- Payload creates multiple image requests to a specified victim IP
 
-Lightweight — no dependencies beyond the standard library
+- Lightweight — no dependencies beyond the standard library
 
-Ideal for research, educational labs, or pentesting your own systems
+- Ideal for research, educational labs, or pentesting your own systems
 
 
 ## How It Works
