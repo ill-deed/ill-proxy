@@ -2,7 +2,7 @@
 
 ## 🔁 1. Massive <img> Bomb (Reflection DDoS)
 
-Same as your original concept, scaled up or randomized.
+Same as the original concept, scaled up or randomized.
 ```
 <script>
   for (let i = 0; i < 300; i++) {
