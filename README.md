@@ -46,7 +46,8 @@ Replace `198.51.100.77` with your controlled test server IP.
 
 1. Clone the repo:
 ```
-git clone https://github.com/ill-deed/ill-proxy.git cd ill-proxy
+git clone https://github.com/ill-deed/ill-proxy.git
+cd ill-proxy
 ```
 2. Run the proxy:
 ```
